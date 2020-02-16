@@ -25,7 +25,7 @@ public class textController : MonoBehaviour
     {
         distance.text = "Distance: " + (int)(rb.position.x * 10) / 10f + "m"; 
         bloodSugar.text = "BS: " + (int)(bsNum * 10) / 10f + "%";
-        fuel.text = "Fuel: " + (int)(fuelNum * 10) / 10f + "%";
+        fuel.text = "Charge: " + (int)(fuelNum * 10) / 10f + "%";
     }
 
     void updateBS (float bs)

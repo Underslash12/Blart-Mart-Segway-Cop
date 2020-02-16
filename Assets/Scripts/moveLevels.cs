@@ -38,7 +38,7 @@ public class moveLevels : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         if(moving){
            if(i < 19){
@@ -49,7 +49,7 @@ public class moveLevels : MonoBehaviour
                 moving = false;
                 if(x > 0){
                     transform.position += new Vector3(0.0f, 1f, 0.0f);
-                    GameObject.FindWithTag("Player").GetComponent<Rigidbody2D>().AddForce(new Vector2(0.0f, 5f), ForceMode2D.Impulse);
+                    GameObject.FindWithTag("Player").GetComponent<Rigidbody2D>().AddForce(new Vector2(0.0f, 10f), ForceMode2D.Impulse);
                 }
             } 
         }       

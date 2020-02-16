@@ -45,7 +45,7 @@ public class jump : MonoBehaviour
             }
         }
         if (Input.GetKeyUp("space")) {
-            print("Yeet");
+            //print("Yeet");
             canStillJump = false;
             rb.gravityScale = oGravity;
         }
@@ -53,6 +53,8 @@ public class jump : MonoBehaviour
 
     void OnCollisionEnter2D (Collision2D c)
     {
-        grounded = true;
+        if (c.gameObject.tag == "floor") {
+            grounded = true;
+        }
     }
 }
