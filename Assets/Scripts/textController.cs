@@ -9,9 +9,9 @@ public class textController : MonoBehaviour
 
     public Text distance;
     public Text bloodSugar;
-    private float bsNum;
+    private float bsNum = 100;
     public Text fuel;
-    private float fuelNum;
+    private float fuelNum = 100;
     private Rigidbody2D rb;
 
     void Start()
@@ -30,11 +30,16 @@ public class textController : MonoBehaviour
 
     public void updateBS (float bs)
     {
+        print(bsNum + " " + bs);
         bsNum += bs;
+        if (bsNum > 100) bsNum = 100;
+        if (bsNum < 0) bsNum = 0;
     }
 
     public void updateFuel (float fl)
     {
         fuelNum += fl;
+        if (fuelNum > 100) fuelNum = 100;
+        if (fuelNum < 0) fuelNum = 0;
     }
 }

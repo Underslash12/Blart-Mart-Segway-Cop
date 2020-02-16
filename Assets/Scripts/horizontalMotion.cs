@@ -6,6 +6,8 @@ using UnityEngine;
 public class horizontalMotion : MonoBehaviour
 {
     private float speed = 10;
+    private float fuelPerSecond = 1;
+    private float fuelMod = 1;
     private Rigidbody2D rb;
     private bool moving = false;
 
@@ -40,11 +42,13 @@ public class horizontalMotion : MonoBehaviour
                 //anim.runtimeAnimatorController = Resources.Load(p + slow) as RuntimeAnimatorController;
                 anim.runtimeAnimatorController = Resources.Load<RuntimeAnimatorController>(p + slow);
                 spr.sprite = slowS;
+                fuelMod = 1;
             }
             if (Input.GetKey("d")) {
                 rb.velocity = new Vector2(speed * 1.25f, rb.velocity.y);
                 anim.runtimeAnimatorController = Resources.Load<RuntimeAnimatorController>(p + fast);
                 spr.sprite = fastS;
+                fuelMod = 1.5f;
             }
 
             if (Input.GetKeyUp("a")) {
@@ -53,13 +57,24 @@ public class horizontalMotion : MonoBehaviour
                 print(p + norm);
                 anim.runtimeAnimatorController = Resources.Load<RuntimeAnimatorController>(p + norm);
                 spr.sprite = normS;
+                fuelMod = 1;
             }
             if (Input.GetKeyUp("d")) {
                 rb.velocity = new Vector2(speed, rb.velocity.y);
                 anim.runtimeAnimatorController = Resources.Load<RuntimeAnimatorController>(p + norm);
                 spr.sprite = normS;
+                fuelMod = 1;
             }
         }
+    }
+
+    void FixedUpdate()
+    {
+        if (moving) {
+            this.GetComponent<textController>().updateFuel(-1 * fuelPerSecond * fuelMod / 60);
+            this.GetComponent<textController>().updateBS(-1f * 1 / 60);
+        }
+        
     }
 
     void startMovement()
