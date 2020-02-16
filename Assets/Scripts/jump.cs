@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 
-public class movement1 : MonoBehaviour
+public class jump : MonoBehaviour
 {
     private bool grounded = true;
     private bool canStillJump = false;
@@ -20,14 +20,14 @@ public class movement1 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey("a")) {
-            Vector2 v = rb.velocity;
-            rb.velocity = new Vector2(-8, v.y);
-        }
-        if (Input.GetKey("d")) {
-            Vector2 v = rb.velocity;
-            rb.velocity = new Vector2(8, v.y);
-        }
+        //if (Input.GetKey("a")) {
+        //    Vector2 v = rb.velocity;
+        //    rb.velocity = new Vector2(-8, v.y);
+        //}
+        //if (Input.GetKey("d")) {
+        //    Vector2 v = rb.velocity;
+        //    rb.velocity = new Vector2(8, v.y);
+        //}
         if (Input.GetKey("space")) {
             Vector2 v = rb.velocity;
             if (grounded) {
