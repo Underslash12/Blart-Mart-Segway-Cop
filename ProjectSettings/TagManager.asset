@@ -4,10 +4,10 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - bottomCollider
-  - topCollider
   - floor
   - box
+  - candy
+  - fuel
   layers:
   - Default
   - TransparentFX

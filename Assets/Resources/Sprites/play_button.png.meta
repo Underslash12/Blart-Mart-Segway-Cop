@@ -1,0 +1,2503 @@
+fileFormatVersion: 2
+guid: 21e954636b7537743a410af91db22ecf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8435151228427288224
+    second: play_button_0
+  - first:
+      213: 539076706722608956
+    second: play_button_1
+  - first:
+      213: -8438293266977018481
+    second: play_button_2
+  - first:
+      213: 8973897166690833819
+    second: play_button_3
+  - first:
+      213: -2170411708448965653
+    second: play_button_4
+  - first:
+      213: 7499697814210656288
+    second: play_button_5
+  - first:
+      213: 6918289484108638438
+    second: play_button_6
+  - first:
+      213: -3070718155429784437
+    second: play_button_7
+  - first:
+      213: 7060310622987517137
+    second: play_button_8
+  - first:
+      213: -4335484067595958781
+    second: play_button_9
+  - first:
+      213: 6212333184185655231
+    second: play_button_10
+  - first:
+      213: -247208202782920618
+    second: play_button_11
+  - first:
+      213: -2002881731348453108
+    second: play_button_12
+  - first:
+      213: 6397648414849825247
+    second: play_button_13
+  - first:
+      213: -4955694370870460812
+    second: play_button_14
+  - first:
+      213: 4833676581637356372
+    second: play_button_15
+  - first:
+      213: -4752050098135829357
+    second: play_button_16
+  - first:
+      213: 2906058943138913085
+    second: play_button_17
+  - first:
+      213: 7359944933696056647
+    second: play_button_18
+  - first:
+      213: -2974202603802137279
+    second: play_button_19
+  - first:
+      213: -2381796080807860445
+    second: play_button_20
+  - first:
+      213: 1541306089376938104
+    second: play_button_21
+  - first:
+      213: -5911256406237955236
+    second: play_button_22
+  - first:
+      213: 5729058614967427089
+    second: play_button_23
+  - first:
+      213: 5612792575413997444
+    second: play_button_24
+  - first:
+      213: 5718074539418198006
+    second: play_button_25
+  - first:
+      213: 4116437169955879425
+    second: play_button_26
+  - first:
+      213: -2206545658774541591
+    second: play_button_27
+  - first:
+      213: -584803747403891468
+    second: play_button_28
+  - first:
+      213: -2293059728767652692
+    second: play_button_29
+  - first:
+      213: 3356583971048513493
+    second: play_button_30
+  - first:
+      213: -8393670165775297021
+    second: play_button_31
+  - first:
+      213: 2711116676103262321
+    second: play_button_32
+  - first:
+      213: 4228580827232316065
+    second: play_button_33
+  - first:
+      213: 7541454182200638094
+    second: play_button_34
+  - first:
+      213: 237210767775964393
+    second: play_button_35
+  - first:
+      213: -4200557242547427080
+    second: play_button_36
+  - first:
+      213: 5079103772400219033
+    second: play_button_37
+  - first:
+      213: 3874170946504085908
+    second: play_button_38
+  - first:
+      213: 1402370481319898119
+    second: play_button_39
+  - first:
+      213: -6769630065098473018
+    second: play_button_40
+  - first:
+      213: 1081332612315370974
+    second: play_button_41
+  - first:
+      213: -9023787955002931969
+    second: play_button_42
+  - first:
+      213: -7862455286906267267
+    second: play_button_43
+  - first:
+      213: 9187398057433738358
+    second: play_button_44
+  - first:
+      213: 1552531106003743187
+    second: play_button_45
+  - first:
+      213: -7452339336793104544
+    second: play_button_46
+  - first:
+      213: -4878657558986544673
+    second: play_button_47
+  - first:
+      213: -6475248719578193712
+    second: play_button_48
+  - first:
+      213: -3505325442976215418
+    second: play_button_49
+  - first:
+      213: -475594103705208249
+    second: play_button_50
+  - first:
+      213: 7353144675341269702
+    second: play_button_51
+  - first:
+      213: -5688362761545640748
+    second: play_button_52
+  - first:
+      213: -2687919224695207507
+    second: play_button_53
+  - first:
+      213: -5771995136061648043
+    second: play_button_54
+  - first:
+      213: -948997503499697519
+    second: play_button_55
+  - first:
+      213: 2241861736955497311
+    second: play_button_56
+  - first:
+      213: 6073763084897742843
+    second: play_button_57
+  - first:
+      213: -5275568930824487328
+    second: play_button_58
+  - first:
+      213: 1579118683619926137
+    second: play_button_59
+  - first:
+      213: 445457532869153838
+    second: play_button_60
+  - first:
+      213: 2542822995450077102
+    second: play_button_61
+  - first:
+      213: -5432975800947788736
+    second: play_button_62
+  - first:
+      213: 2044737286201802935
+    second: play_button_63
+  - first:
+      213: -4121045650426805946
+    second: play_button_64
+  - first:
+      213: 5058109014370847112
+    second: play_button_65
+  - first:
+      213: -5458734356980491237
+    second: play_button_66
+  - first:
+      213: 9053311824202169179
+    second: play_button_67
+  - first:
+      213: -3566583385110293792
+    second: play_button_68
+  - first:
+      213: -4590659827084822975
+    second: play_button_69
+  - first:
+      213: 462510719616340104
+    second: play_button_70
+  - first:
+      213: 5841929196467547444
+    second: play_button_71
+  - first:
+      213: 7689439813927241624
+    second: play_button_72
+  - first:
+      213: -3168374130789201411
+    second: play_button_73
+  - first:
+      213: -6780823709811123960
+    second: play_button_74
+  - first:
+      213: -7760685302257015253
+    second: play_button_75
+  - first:
+      213: 432423944317815136
+    second: play_button_76
+  - first:
+      213: 4682974583068852503
+    second: play_button_77
+  - first:
+      213: -4849706689981448963
+    second: play_button_78
+  - first:
+      213: -1906509482062886837
+    second: play_button_79
+  - first:
+      213: -4045437991891557850
+    second: play_button_80
+  - first:
+      213: 4490729240266340791
+    second: play_button_81
+  - first:
+      213: 5300022712399131416
+    second: play_button_82
+  - first:
+      213: -6872256453433781146
+    second: play_button_83
+  - first:
+      213: 1559807118240572890
+    second: play_button_84
+  - first:
+      213: -1240729096496568748
+    second: play_button_85
+  - first:
+      213: 2467267305992338539
+    second: play_button_86
+  - first:
+      213: 207966409226687141
+    second: play_button_87
+  - first:
+      213: 4230579819830916826
+    second: play_button_88
+  - first:
+      213: 5740078366529451290
+    second: play_button_89
+  - first:
+      213: 8853715678988318597
+    second: play_button_90
+  - first:
+      213: 3045539248288277486
+    second: play_button_91
+  - first:
+      213: -8756181413824574962
+    second: play_button_92
+  - first:
+      213: -1613982052810035221
+    second: play_button_93
+  - first:
+      213: 4922367418048133271
+    second: play_button_94
+  - first:
+      213: -3597069674608105619
+    second: play_button_95
+  - first:
+      213: 8644387348008102004
+    second: play_button_96
+  - first:
+      213: 2136362136724550519
+    second: play_button_97
+  - first:
+      213: -1376712353804830690
+    second: play_button_98
+  - first:
+      213: -7258034139761647536
+    second: play_button_99
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: play_button_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2888
+        width: 266
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eabc4f0d6455f445ab969e8de47232c
+      internalID: 8435151228427288224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_1
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2889
+        width: 265
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecfd11f7c5abe94d95cf8848816d29d
+      internalID: 539076706722608956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_2
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2888
+        width: 262
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32c7702fce77684882f57bb4d035705
+      internalID: -8438293266977018481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_3
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2889
+        width: 264
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f694a7796a9c6743aa01703f593f032
+      internalID: 8973897166690833819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_4
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 2888
+        width: 266
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf819aa389b9b6479a5a028212377db
+      internalID: -2170411708448965653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_5
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 2888
+        width: 266
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c4c4cecf7b7194ab738aceb6610d7b
+      internalID: 7499697814210656288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_6
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 2889
+        width: 265
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2c9b0391f38684eaa62e65e4522dc4
+      internalID: 6918289484108638438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_7
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 2888
+        width: 262
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aff164d4eb726d4caae732e3af19165
+      internalID: -3070718155429784437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_8
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 2889
+        width: 264
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab55642d2637ad44bfc509767e33d09
+      internalID: 7060310622987517137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_9
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 2888
+        width: 266
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6c8d564f862ca41a3ebcc396c6047b
+      internalID: -4335484067595958781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2569
+        width: 266
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ba98b00f3511a4283ec13e49c4ad57
+      internalID: 6212333184185655231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_11
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2569
+        width: 265
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63488da46a592b445b8a714d280097c1
+      internalID: -247208202782920618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_12
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2569
+        width: 262
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba009166ee4ceb49bbaf95691e6b982
+      internalID: -2002881731348453108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_13
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2569
+        width: 264
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e9f50a20f35154b9ef0363ae4e396f
+      internalID: 6397648414849825247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_14
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 2569
+        width: 266
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2767c49f0780c0a438a6e833fb298df3
+      internalID: -4955694370870460812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_15
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 2569
+        width: 266
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae548ac904d5ed47a3da954bad7e86a
+      internalID: 4833676581637356372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_16
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 2569
+        width: 265
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5da261ecd18984a9b0126f9c6950e9
+      internalID: -4752050098135829357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_17
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 2569
+        width: 262
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272e8171abdb0e24b8cb4b476995e98e
+      internalID: 2906058943138913085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_18
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 2569
+        width: 264
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e6ac43f046c9e47a35523298d530f0
+      internalID: 7359944933696056647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_19
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 2569
+        width: 266
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d44253758924d43affa3077360d743
+      internalID: -2974202603802137279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2248
+        width: 266
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c6737fac15f4347bfbc0819a4b46e1
+      internalID: -2381796080807860445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_21
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2248
+        width: 265
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482c9b0321e831947ab1567fcdc2bfeb
+      internalID: 1541306089376938104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_22
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2248
+        width: 262
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec9f9f45b403b54187e053c74da415b
+      internalID: -5911256406237955236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_23
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2248
+        width: 264
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93a87aa8c7605e49938e5f19167da50
+      internalID: 5729058614967427089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_24
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 2248
+        width: 266
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba36fba0f1321e445b29c83d2a797fcd
+      internalID: 5612792575413997444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_25
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 2248
+        width: 266
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a85f719358d7114db56991c4d2a1de2
+      internalID: 5718074539418198006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_26
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 2248
+        width: 265
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d104e6c5a07e6e641ab2417343324727
+      internalID: 4116437169955879425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_27
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 2248
+        width: 262
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435852e46a3d9b44ba4fa4bc90f98c4b
+      internalID: -2206545658774541591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_28
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 2248
+        width: 264
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650f95a04141821409e25f5aab012be8
+      internalID: -584803747403891468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_29
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 2248
+        width: 266
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c35d2ba1af82b4db8923e4a4056404
+      internalID: -2293059728767652692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_30
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1925
+        width: 266
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5975d37870b938c4f976883cbd37defc
+      internalID: 3356583971048513493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_31
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1925
+        width: 263
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b93a76c5eec52489f92f8a9e714725
+      internalID: -8393670165775297021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_32
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1925
+        width: 262
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a9cefcbbfd8c047ad440fc27657e92
+      internalID: 2711116676103262321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_33
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1925
+        width: 263
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43ac484b77eec94f938a1d6ca3595fe
+      internalID: 4228580827232316065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_34
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1925
+        width: 266
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaaf7bc6ef985f469f945fd57a5b09a
+      internalID: 7541454182200638094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_35
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1925
+        width: 266
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836bea068a4d21040a6f72c396afee19
+      internalID: 237210767775964393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_36
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1925
+        width: 263
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619a1ec854d1bd14498810cd17dac1d5
+      internalID: -4200557242547427080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_37
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 1925
+        width: 262
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b9fd6da38a8564083465ed7f20ab42
+      internalID: 5079103772400219033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_38
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 1925
+        width: 264
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d1587087ca44245a88173b1506887c
+      internalID: 3874170946504085908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_39
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 1925
+        width: 266
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0e8286470417b4dbf0a544d2ba14ea
+      internalID: 1402370481319898119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_40
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1609
+        width: 266
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2b6df807640e44dbfb626627a75839
+      internalID: -6769630065098473018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_41
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1609
+        width: 263
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c706cf13a099904595d3147fb20e1ea
+      internalID: 1081332612315370974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_42
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1609
+        width: 262
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad58c6674e7f9f245ba093714b53a381
+      internalID: -9023787955002931969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_43
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1609
+        width: 263
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dbd0e5e94de284f81875de4f4ca715
+      internalID: -7862455286906267267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_44
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1609
+        width: 266
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d421503e1fa2904d8aacd66c59d1537
+      internalID: 9187398057433738358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_45
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1609
+        width: 266
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6adc9762aaaf64b949017b405b478b
+      internalID: 1552531106003743187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_46
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1609
+        width: 263
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49f6cd324c48e54ba5bbb790a76c185
+      internalID: -7452339336793104544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_47
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 1609
+        width: 262
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0835e21ec6d28428fb9e963ac1a8ec
+      internalID: -4878657558986544673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_48
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 1609
+        width: 264
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6969be2c7877c24094360cdc9c57f72
+      internalID: -6475248719578193712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_49
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 1609
+        width: 266
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3924d56c79426479d0c9f5a3a05636
+      internalID: -3505325442976215418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_50
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1289
+        width: 266
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb4f7aabe7c74944aaa30b400f66e06
+      internalID: -475594103705208249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_51
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1289
+        width: 265
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a9f2a041618a94692ae9a3e3c0fdc3
+      internalID: 7353144675341269702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_52
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1288
+        width: 262
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d94f02830c7754409c034b225b931df
+      internalID: -5688362761545640748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_53
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1289
+        width: 264
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531753cb8a70bb34fa509d55113a980f
+      internalID: -2687919224695207507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_54
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1289
+        width: 266
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d473c25ebdb694a9aa6b96f6299686
+      internalID: -5771995136061648043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_55
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1289
+        width: 266
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db51ce36a346e4c4cbfc5b60cb01e188
+      internalID: -948997503499697519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_56
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1289
+        width: 265
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4b1a5a88bedc24ba9a3b4d01f8ab50
+      internalID: 2241861736955497311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_57
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 1288
+        width: 262
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348fbe00197948c4ab77cb7a0dd6c2a7
+      internalID: 6073763084897742843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_58
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 1289
+        width: 264
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822c5fd6defb61c458dead86594d6ad0
+      internalID: -5275568930824487328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_59
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 1289
+        width: 266
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b5d106b89778743bfa06432c41b1b5
+      internalID: 1579118683619926137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_60
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 969
+        width: 266
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff102350e3be5e46b709ed6ce0bfb04
+      internalID: 445457532869153838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_61
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 969
+        width: 265
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581f5843fee3bbb4893ea5d651a45d92
+      internalID: 2542822995450077102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_62
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 969
+        width: 262
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9115291e64503454eae68f2787481114
+      internalID: -5432975800947788736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_63
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 969
+        width: 264
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b2913846f7c4a4b83ee25f56597848
+      internalID: 2044737286201802935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_64
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 969
+        width: 266
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2003ca059c86e644193513511bcb6a41
+      internalID: -4121045650426805946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_65
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 969
+        width: 266
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de522cb99efb3548ac28fdacf4fe9ca
+      internalID: 5058109014370847112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_66
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 969
+        width: 265
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd079bb0e57af84ea7ce8cfcf9c4769
+      internalID: -5458734356980491237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_67
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 969
+        width: 262
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ff424fb96939642b34f96371780074
+      internalID: 9053311824202169179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_68
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 969
+        width: 264
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e084af88871206d45b9518206e2271f3
+      internalID: -3566583385110293792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_69
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 969
+        width: 266
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51426390f1f71a45b7195d49fcac8af
+      internalID: -4590659827084822975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_70
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 648
+        width: 266
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222fe86e33230e74fadb474dfb7234dc
+      internalID: 462510719616340104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_71
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 648
+        width: 265
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382794d6efb2ec846a32a4ef050237e0
+      internalID: 5841929196467547444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_72
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 648
+        width: 262
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b777682cc5173a348bf9be9eec0d23cd
+      internalID: 7689439813927241624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_73
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 648
+        width: 264
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ed481ce301e534aab34d68ce4b31c6
+      internalID: -3168374130789201411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_74
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 648
+        width: 266
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d619a5ac53edb154c9ef658238157afa
+      internalID: -6780823709811123960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_75
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 648
+        width: 266
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2835fae748c5a1f42a764d568a3240e9
+      internalID: -7760685302257015253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_76
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 648
+        width: 265
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa89974b37e0b6448c5de0cb6c6a824
+      internalID: 432423944317815136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_77
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 648
+        width: 262
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ddcca7a9fd23749bb1a6d69c8d39e0
+      internalID: 4682974583068852503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_78
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 648
+        width: 264
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab851fac0a2f1004d99f7008e7f1dfa2
+      internalID: -4849706689981448963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_79
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 648
+        width: 266
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ba6a8b351c9c3429a26faae70c7fbc
+      internalID: -1906509482062886837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_80
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 325
+        width: 266
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d4da03b33c09243a28afeb1aded3d0
+      internalID: -4045437991891557850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_81
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 325
+        width: 263
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20635bdaf5e03ee4aabf57e2e47330fb
+      internalID: 4490729240266340791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_82
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 325
+        width: 262
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930c69f068a63f04b8d00be6d59abef5
+      internalID: 5300022712399131416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_83
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 325
+        width: 263
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0363c002d0462a498c82d578a2eef40
+      internalID: -6872256453433781146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_84
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 325
+        width: 266
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6199c90a0af36d54ab6b241c42d787c8
+      internalID: 1559807118240572890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_85
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 325
+        width: 266
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3e55fbba8e8e645bc84bcfbb0c1292
+      internalID: -1240729096496568748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_86
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 325
+        width: 263
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7c17d56a14af6468e3cfab54991ec1
+      internalID: 2467267305992338539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_87
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 325
+        width: 262
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7961b2645431c44458f54f277d8a49c9
+      internalID: 207966409226687141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_88
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 325
+        width: 264
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d44637fcafa2364a810b10670a9958c
+      internalID: 4230579819830916826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_89
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 325
+        width: 266
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee0f5c06e0879c4594be3e188ef86d0
+      internalID: 5740078366529451290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_90
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 9
+        width: 266
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124b220342d727646a222e42a59e2ec1
+      internalID: 8853715678988318597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_91
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 9
+        width: 263
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aec642371070594292ed7f4a31a77dc
+      internalID: 3045539248288277486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_92
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 9
+        width: 262
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c924a7027a07f4086daadfe07898fb
+      internalID: -8756181413824574962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_93
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 9
+        width: 263
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b80818abdcb354a80cddc613801dab
+      internalID: -1613982052810035221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_94
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 9
+        width: 266
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f8b17c07c9a10499ad7135c66f1425
+      internalID: 4922367418048133271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_95
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 9
+        width: 266
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b287561f183cf9b47b3791626619b73c
+      internalID: -3597069674608105619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_96
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 9
+        width: 263
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d796ec672d72340ac83325b84a7716
+      internalID: 8644387348008102004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_97
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 9
+        width: 262
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b99f894a2d534b44adb04c9ad43913c
+      internalID: 2136362136724550519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_98
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 9
+        width: 264
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b136420d9c1c07a439ce52e5c957f35b
+      internalID: -1376712353804830690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button_99
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 9
+        width: 266
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a53c928f855b740a4140977e99ffc2
+      internalID: -7258034139761647536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

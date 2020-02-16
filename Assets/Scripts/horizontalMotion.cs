@@ -31,15 +31,13 @@ public class horizontalMotion : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey("p")) {
+        if (Input.GetKey("space") && !moving) {
             startMovement();
         }
         if (moving) {
             string p = "Sprites/";
-            //print(p);
             if (Input.GetKey("a")) {
                 rb.velocity = new Vector2(speed * 0.75f, rb.velocity.y);
-                //anim.runtimeAnimatorController = Resources.Load(p + slow) as RuntimeAnimatorController;
                 anim.runtimeAnimatorController = Resources.Load<RuntimeAnimatorController>(p + slow);
                 spr.sprite = slowS;
                 fuelMod = 1;
@@ -53,8 +51,6 @@ public class horizontalMotion : MonoBehaviour
 
             if (Input.GetKeyUp("a")) {
                 rb.velocity = new Vector2(speed, rb.velocity.y);
-                print(Resources.Load<RuntimeAnimatorController>(p + norm));
-                print(p + norm);
                 anim.runtimeAnimatorController = Resources.Load<RuntimeAnimatorController>(p + norm);
                 spr.sprite = normS;
                 fuelMod = 1;
@@ -70,6 +66,7 @@ public class horizontalMotion : MonoBehaviour
 
     void FixedUpdate()
     {
+
         if (moving) {
             this.GetComponent<textController>().updateFuel(-1 * fuelPerSecond * fuelMod / 60);
             this.GetComponent<textController>().updateBS(-1f * 1 / 60);

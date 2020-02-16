@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class textController : MonoBehaviour
 {
@@ -30,10 +31,12 @@ public class textController : MonoBehaviour
 
     public void updateBS (float bs)
     {
-        print(bsNum + " " + bs);
         bsNum += bs;
         if (bsNum > 100) bsNum = 100;
         if (bsNum < 0) bsNum = 0;
+        if (bsNum == 0) {
+            SceneManager.LoadScene("gameover");
+        } 
     }
 
     public void updateFuel (float fl)
@@ -41,5 +44,8 @@ public class textController : MonoBehaviour
         fuelNum += fl;
         if (fuelNum > 100) fuelNum = 100;
         if (fuelNum < 0) fuelNum = 0;
+        if (fuelNum == 0) {
+            SceneManager.LoadScene("gameover");
+        }
     }
 }

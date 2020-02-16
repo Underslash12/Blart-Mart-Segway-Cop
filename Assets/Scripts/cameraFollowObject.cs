@@ -5,8 +5,6 @@ using UnityEngine;
 public class cameraFollowObject : MonoBehaviour
 {
 
-    // ToDO:Make modular
-
     private GameObject followTarget;
     // Start is called before the first frame update
     void Start()

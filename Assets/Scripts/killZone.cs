@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class killObject : MonoBehaviour
+public class killZone : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -11,8 +11,9 @@ public class killObject : MonoBehaviour
         
     }
 
-    void OnCollisionStay2D(Collision2D collision){
-        if(collision.gameObject.tag == "box" && this.GetComponent<Rigidbody2D>().velocity.x == 0){
+    void OnCollisionEnter2D(Collision2D coll)
+    {
+        if (coll.gameObject.tag == "Player") {
             SceneManager.LoadScene("gameover");
         }
     }
