@@ -16,6 +16,8 @@ public class generation : MonoBehaviour
     public GameObject edgeR;
     public GameObject center;
     public GameObject box;
+    public GameObject candy;
+    public GameObject fuel;
 
     // Start is called before the first frame update
     void Start()
@@ -91,6 +93,13 @@ public class generation : MonoBehaviour
                 Instantiate(edgeR, new Vector3(position + 24 + start[i] + length[i] - 1, y, 0), q);
                 if (length[i] > 7 && r.Next(0, 4) == 1) {
                     Instantiate(box, new Vector3(position + 24 + start[i] + length[i] - 1 - r.Next(1, 5), y + 1.5f, 0), q);
+                } else if (r.Next(0, 10) == 0) {
+                    if (r.Next(0, 2) == 0) {
+                        Instantiate(candy, new Vector3(position + 24 + start[i] + length[i] - 1 - r.Next(1, 5), y + 1.5f, 0), q);
+                    }
+                    else {
+                        Instantiate(fuel, new Vector3(position + 24 + start[i] + length[i] - 1 - r.Next(1, 5), y + 2.5f, 0), q);
+                    } 
                 }
             }
         }
