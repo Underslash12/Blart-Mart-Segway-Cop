@@ -28,12 +28,12 @@ public class textController : MonoBehaviour
         fuel.text = "Charge: " + (int)(fuelNum * 10) / 10f + "%";
     }
 
-    void updateBS (float bs)
+    public void updateBS (float bs)
     {
         bsNum += bs;
     }
 
-    void updateFuel (float fl)
+    public void updateFuel (float fl)
     {
         fuelNum += fl;
     }

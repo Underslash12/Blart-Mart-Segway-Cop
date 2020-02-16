@@ -1,9 +1,25 @@
 sceneSetups:
-- path: Assets/Scenes/killers.unity
-  isLoaded: 1
-  isActive: 1
+- path: Assets/Scenes/main.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Collect.unity
+  isLoaded: 0
+  isActive: 0
   isSubScene: 0
 - path: Assets/Scenes/gameover.unity
   isLoaded: 0
   isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/ItemTesting.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/killers.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/withSceenChange.unity
+  isLoaded: 1
+  isActive: 1
   isSubScene: 0
