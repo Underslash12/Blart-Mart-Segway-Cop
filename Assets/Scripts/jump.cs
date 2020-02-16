@@ -53,8 +53,13 @@ public class jump : MonoBehaviour
 
     void OnCollisionEnter2D (Collision2D c)
     {
-        if (c.gameObject.tag == "floor") {
+        if (c.gameObject.tag == "floor" || c.gameObject.tag == "box") {
             grounded = true;
         }
+    }
+
+    void OnCollisionExit2D (Collision2D c)
+    {
+        grounded = false;
     }
 }

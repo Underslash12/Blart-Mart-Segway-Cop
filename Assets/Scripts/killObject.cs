@@ -12,8 +12,7 @@ public class killObject : MonoBehaviour
     }
 
     void OnCollisionEnter2D(Collision2D collision){
-        Debug.Log("penis");
-        if(collision.gameObject.tag == "Player"){
+        if(collision.gameObject.tag == "box" && this.GetComponent<Rigidbody2D>().velocity.x == 0){
             SceneManager.LoadScene("gameover");
         }
     }
