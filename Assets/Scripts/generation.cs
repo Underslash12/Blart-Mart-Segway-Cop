@@ -15,6 +15,7 @@ public class generation : MonoBehaviour
     public GameObject edgeL;
     public GameObject edgeR;
     public GameObject center;
+    public GameObject box;
 
     // Start is called before the first frame update
     void Start()
@@ -81,11 +82,16 @@ public class generation : MonoBehaviour
     {
         for (int i = 0; i < start.Length; i++) {
             if (length[i] > 0) {
-                Instantiate(edgeL, new Vector3(position + 24 + start[i], i * 4 - 4 + 0.5f, 0), new Quaternion(0, 0, 0, 0));
+                float y = i * 3 - 5 + 0.5f;
+                Quaternion q = new Quaternion(0, 0, 0, 0);
+                Instantiate(edgeL, new Vector3(position + 24 + start[i], y, 0), q);
                 for (int j = 0; j < length[i] - 2; j++) {
-                    Instantiate(center, new Vector3(position + 24 + start[i] + j + 1, i * 4 - 4 + 0.5f, 0), new Quaternion(0, 0, 0, 0));
+                    Instantiate(center, new Vector3(position + 24 + start[i] + j + 1, y, 0), q);
                 }
-                Instantiate(edgeR, new Vector3(position + 24 + start[i] + length[i] - 1, i * 4 - 4 + 0.5f, 0), new Quaternion(0, 0, 0, 0));
+                Instantiate(edgeR, new Vector3(position + 24 + start[i] + length[i] - 1, y, 0), q);
+                if (length[i] > 7 && r.Next(0, 4) == 1) {
+                    Instantiate(box, new Vector3(position + 24 + start[i] + length[i] - 1 - r.Next(1, 5), y + 1.5f, 0), q);
+                }
             }
         }
     }
