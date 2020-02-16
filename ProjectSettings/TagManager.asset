@@ -6,6 +6,8 @@ TagManager:
   tags:
   - bottomCollider
   - topCollider
+  - candy
+  - fuel
   layers:
   - Default
   - TransparentFX
