@@ -6,6 +6,7 @@ TagManager:
   tags:
   - bottomCollider
   - topCollider
+  - floor
   layers:
   - Default
   - TransparentFX
