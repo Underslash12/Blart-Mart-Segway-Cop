@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System;
 using System.IO;
 using UnityEngine;
 
@@ -11,8 +12,11 @@ public class horizontalMotion : MonoBehaviour
     private Rigidbody2D rb;
     private bool moving = false;
 
+    private long lastSTime = 0;
+
     private Animator anim;
     private SpriteRenderer spr;
+
     public string slow;
     public Sprite slowS;
     public string norm;
@@ -32,7 +36,7 @@ public class horizontalMotion : MonoBehaviour
     void Update()
     {
         if (Input.GetKey("space") && !moving) {
-            startMovement();
+            StartMovement();
         }
         if (moving) {
             string p = "Sprites/";
@@ -62,6 +66,7 @@ public class horizontalMotion : MonoBehaviour
                 fuelMod = 1;
             }
         }
+
     }
 
     void FixedUpdate()
@@ -74,7 +79,7 @@ public class horizontalMotion : MonoBehaviour
         
     }
 
-    void startMovement()
+    void StartMovement()
     {
         moving = true;
         rb.velocity = new Vector2(speed, rb.velocity.y);

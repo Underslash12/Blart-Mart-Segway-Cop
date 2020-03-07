@@ -8,6 +8,7 @@ TagManager:
   - box
   - candy
   - fuel
+  - floor-collider
   layers:
   - Default
   - TransparentFX
@@ -17,7 +18,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - floor
   - 
   - 
   - 

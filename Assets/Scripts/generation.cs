@@ -73,9 +73,12 @@ public class generation : MonoBehaviour
             if (length[i] > 0) {
                 float y = i * 3 - 5 + 0.5f;
                 Quaternion q = new Quaternion(0, 0, 0, 0);
-                for (int j = 0; j < length[i]; j++) {
-                    Instantiate(center, new Vector3(position + 24 + start[i] + j, y, 0), q);
-                }
+                //for (int j = 0; j < length[i]; j++) {
+                //    Instantiate(center, new Vector3(position + 24 + start[i] + j, y, 0), q);
+                //}
+                GameObject t = Instantiate(center, new Vector3(position + 24 + start[i] + length[i] / 2, y, 0), q);
+                t.GetComponent<SpriteRenderer>().size = new Vector2(0.08f * length[i], 0.08f);
+
                 if (length[i] > 7 && r.Next(0, 4) == 1) {
                     Instantiate(box, new Vector3(position + 24 + start[i] + length[i] - 1 - r.Next(1, 5), y + 1.5f, 0), q);
                 } else if (r.Next(0, 10) == 0) {
